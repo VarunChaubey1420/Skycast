@@ -49,12 +49,6 @@ This project was developed as my **2nd Semester Web Development Project** to dem
 
 ---
 
-## 📷 Preview
-
-> *(Add screenshots or a GIF here for a better showcase.)*
-
----
-
 ## 🚀 Live Demo
 
 https://varunchaubey1420.github.io/skycast/
